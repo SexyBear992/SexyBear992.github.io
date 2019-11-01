@@ -1,0 +1,24 @@
+#wrap_btn{
+  width: 100%;
+  background: #eee;
+}
+#wrap_btn .wrap{
+  width: 1200px;
+  margin:0 auto;
+  display: flex;
+  height: 112px;
+  align-items:center;
+}
+#wrap_btn .wrap div{
+
+  width: 128px;
+  height: 100%;
+  text-align: center;
+}
+#wrap_btn .wrap div svg{
+  padding-top: 20px;
+  width: 62px;
+}
+#wrap_btn .wrap div p {
+ margin-top: -20px;
+}

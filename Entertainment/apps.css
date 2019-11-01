@@ -1,0 +1,344 @@
+.section-parbase{
+			width: 100%;
+			height: 500px;
+			background: #FFFFFF;
+			
+		}
+		.row{
+			width: 1110px;
+			height: 100%;
+			margin: 0px auto;
+		}
+		.section-parbase-banner{
+			width: 1090px;
+			height: 100%;
+			padding: 0 10px;
+		}
+		.parbase-boxa{
+			padding: 151.5px 0;
+			width: 535px;
+			height: 197px;
+			padding-right: 10px;
+			float: left;
+		}
+		.parbase-boxa h1{
+			margin-bottom: 20px;
+			color: #2f353d;
+			font-weight: lighter;
+			font-size: 40px;
+		}
+		.parbase-boxa p{
+			color: rgb(48,52,63);
+			width: 320px;
+			font-size: 0.875em;
+			line-height: 1.5;
+		}
+		.parbase-boxb{
+			width: 535px;
+			height: 100%;
+			padding-left: 10px;
+			float: left;
+		}
+		.parbase-boxb img{
+			width: 535px;
+			height: 100%;
+		}
+		.section-app{
+			width: 100%;
+			height: 531px;
+			background:#EDF1F5;
+		}
+		.section-app-banner{
+			width: 1150px;
+			height: 331px;
+			padding: 100px 0;
+			margin: 0px auto;
+			
+		}
+		.app-boxa{
+			width: 569px;
+			height: 331px;
+			float: left;
+		}
+		.app-boxa img{
+			width: 569px;
+			height: 331px;
+		}
+		.app-boxb{
+			width: 490px;
+			height: 251px;
+			padding: 40px 0 40px 7%;
+			
+			float: left;
+			vertical-align: middle;
+		}
+		.app-boxb-title{
+			width: 100%;
+			height: 89px;
+			margin-bottom: 24px;
+		}
+		.icon-app{
+			width: 111px;
+			height: 100%;
+			
+			float: left;
+		}
+		.title-app{
+			width: 379px;
+			height: 100%;
+			float: left;
+		}
+		.title-app .title{
+		        padding-bottom: 7px;
+				height: 17px;
+		}
+		.title-app .name{
+			    height: 62px;
+			    color: #83838f;
+				font-size: 1.9375rem;
+		}
+		.app-boxb-title .textnent{
+			    margin: 0;
+			    padding: 0;
+			    margin-bottom: 1.5625rem;
+			    max-width: 25rem;
+			    font-size: .875rem;
+			    line-height: 1.5;
+			    letter-spacing: -.03188rem;
+			    color: #83838f;
+		}
+		.button-app-data{
+			width: 130px;
+			height: 43px;
+			margin-top: 20px;
+			
+		}
+		.app-download-btn{
+			    line-height: 2.1875rem;
+			    width: 100%;
+				height: 100%;
+			    cursor: pointer;
+			    background-color: #5484f8;
+			    color: #fff;
+			    font-size: .625rem;
+			    font-weight: 700;
+		}
+		.app-download-btn span{
+			display: inline-block;
+		}
+		.app-download-btn .app-xiala{	
+			
+			width: 20px;
+			height: 20px;
+			
+			color: #FFFFFF;
+		}
+		.app-download-btn .app-xiala img{
+			width: 10px;
+			height: 10px;
+		}
+		.app-xiazai-link{
+			position: relative;
+			top: 0;
+			left: 0;
+			width: 145px;
+			height: 115px;
+			background: #4d5059;
+			display: none;
+		}
+		.app-xiazai-link .anzhuo{
+			width: 100%;
+			height: 57px;
+			border-bottom: 1px solid #42444c;
+			text-align: left;
+		}
+		.app-xiazai-link .anzhuo a{
+			width: 120px;
+			padding-left: 25px;
+			height: 100%;
+			display: block;
+			line-height: 57px;
+			color: #FFFFFF;
+			font-size: 12px;
+		}
+		.app-xiazai-link .apple{
+			width: 100%;
+			height: 57px;
+			text-align: left;
+			
+		}
+		.app-xiazai-link .apple a{
+			width: 120px;
+			padding-left: 25px;
+			height: 100%;
+			display: block;
+			color: #FFFFFF;
+			line-height: 57px;
+			font-size: 12px;
+		}
+		.app-xiazai-link span{
+			display: inline-block;
+		}
+		.anzhuoimg img{
+			width: 10px;
+			height: 10px;
+		}
+		.appleimg img{
+			width: 10px;
+			height: 10px;
+		}
+		.app-browser{
+			width: 100%;
+			height: 3268px;
+		}
+		.app-browser-fixedbox{
+			width: 100%;
+			height: 90px;
+			z-index: 2;
+		}
+		.app-browser-link{
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: space-between;
+		}
+		.app-browser-link li{
+			width: 16.66%;
+			height: 100%;
+			
+			text-align: center;
+			line-height: 90px;
+			background: #FFFFFF;
+			border-right: 1px solid #ececec;
+			border-bottom: 1px solid #ececec;
+		}
+		.app-browser-link a{
+			width: 100%;
+			height: 100%;
+			display: block;
+			text-decoration: none;
+			transition: all 0.5s;
+		}
+		.app-browser-link .lis-watch a{
+			color: #ca2724;
+			font-weight: bold;
+			
+		}
+		.app-browser-link .lis-listen a{
+			color:#922f8c;
+			font-weight: bold;
+		}
+		.app-browser-link .lis-play a{
+			color: #e87520;
+			font-weight: bold;
+		}
+		.app-browser-link .lis-connect a{
+			color: #2bacce;
+			font-weight: bold;
+		}
+		.app-browser-link .lis-discover a{
+			color: #0f579c;
+			font-weight: bold;
+		}
+		.app-browser-link .lis-support a{
+			color: #8fc32b;
+			font-weight: bold;
+		}
+		.category{
+			width: 100%;
+			height: 3177px;
+			background: #FFFFFF;
+		}
+		.watch-box{
+			width: 100%;
+			height: 750px;
+			border-bottom: 1px solid #ececec;
+		}
+		.watch-box-wrap{
+			width:89%;
+			height: 595px;
+			margin: 0px auto;
+			padding: 80px 0 25px 0;
+		}
+		.cmp{
+			width: 278px;
+			height: 229px;
+			padding: 0 30px 80px;
+			float: left;
+		}
+		.cmp .tubiao{
+			width: 88px;
+			height: 88px;
+			display: block;
+			float: left;
+		}
+		.cmp-title{
+			width: 100%;
+			height: 86px;
+			float: left;
+		}
+		.cmp-title p{
+			width: 100%;	
+			display: block;
+			padding: 10px 0;
+			color: #83838f;
+		}
+		.listen-box{
+			width: 100%;
+			height: 430px;
+			
+			border-bottom: 1px solid #ececec;
+		}
+		.listen-box-wrap{
+			width: 89%;
+			height: 324px;
+			padding: 80px 0 25px;
+			margin: 0px auto;
+		}
+		.play-box{
+			width: 100%;
+			height: 700px;
+			border-bottom: 1px solid #ececec;
+		}
+		.play-box-wrap{
+			width:89%;
+			height: 595px;
+			margin: 0px auto;
+			padding: 80px 0 25px 0;
+		}
+		.connect-box{
+			width: 100%;
+			height: 430px;
+			
+			border-bottom: 1px solid #ececec;
+		}
+		.connect-box-wrap{
+			width: 89%;
+			height: 324px;
+			padding: 80px 0 25px;
+			margin: 0px auto;
+		}
+		.discover-box{
+			width: 100%;
+			height: 430px;
+			
+			border-bottom: 1px solid #ececec;
+		}
+		.discover-box-wrap{
+			width: 89%;
+			height: 324px;
+			padding: 80px 0 25px;
+			margin: 0px auto;
+		}
+		.support-box{
+			width: 100%;
+			height: 430px;
+			
+			border-bottom: 1px solid #ececec;
+		}
+		.support-box-wrap{
+			width: 89%;
+			height: 324px;
+			padding: 80px 0 25px;
+			margin: 0px auto;
+		}

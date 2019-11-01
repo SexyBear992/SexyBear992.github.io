@@ -1,0 +1,76 @@
+.app2_item_header{
+    padding: 20px 0;
+    width: 100%;
+  }
+  .app2_item_header .wrap{
+    width: 1150px;
+    margin: 0 auto;
+  }
+  .app2_item_header .btn{
+    width: 160px;
+    height: 45px;
+    font-size: 12px;
+    line-height: 45px;
+    text-align: center;
+    /* font-weight: bold; */
+    background: #e4e7eb;
+    color: #2f353d;
+    transition: all .3s;
+    cursor: pointer;
+  }
+  .app2_item_header .btn:hover{
+    background: #83838f;
+    color: #fff;
+  }
+  .app2_item{
+    width: 100%;
+    padding: 20px 0;
+   
+  }
+  .app2_item .wrap{ 
+    width: 1150px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #ccc;
+  }
+  .app2_item header .title{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.76);
+  }
+  .app2_item .item_content ul{
+    padding-top:30px;
+      display: flex;
+  }
+  .app2_item .item_content ul li{
+      width: 220px;
+      height: 383px;
+      margin-right: 20px;
+  }
+  .app2_item .item_content ul li .title{
+      font-size: 14px;
+      padding: 5px 0;
+  }
+  .app2_item .item_content ul li .xh{
+      font-size: 12px;
+      padding: 5px 0;
+      color: #999;
+  }
+  .app2_item .item_content ul li .link{
+      font-size: 13px;
+      padding: 12px 0;
+      color: #5865f5;
+      text-align: center;
+  }
+  .app2_item .item_content ul li .content_btn{
+      width: 100%;
+      background: #dc3a1a;
+      padding: 15px 0;
+      text-align: center;
+      font-size: 14px;
+      margin-top: 20px;
+      color: #fff;
+  }
+  .app2_item .item_content ul li img{
+      width: 220px;
+  }

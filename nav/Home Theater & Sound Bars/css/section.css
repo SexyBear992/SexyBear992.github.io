@@ -1,0 +1,37 @@
+#section {
+  width: 100%;
+  position: relative;
+}
+
+#section img {
+  width: 100%;
+  margin-bottom: -4px;
+}
+
+#section .content {
+  width: 500px;
+  height: 100px;
+  /* background: #ccc; */
+  position: absolute;
+  left: 20%;
+  top: 75px;
+  color: #fff;
+}
+
+#section .content .link {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#section .content .title {
+  font-size: 38px;
+  padding: 10px 0;
+}
+
+#section .content button {
+  margin-top: 15px;
+  padding: 15px 20px;
+  border: none;
+  color: #fff;
+  background: #5865f5
+}

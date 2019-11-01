@@ -1,0 +1,102 @@
+.all-top{
+    position: relative;
+}
+.all-top img{
+    width: 100%
+}
+.at-title{
+    position: absolute;
+    top: 80px;
+    left: 350px;
+    color: #fff;
+    font-size: 40px;
+}
+.at-text{
+    position: absolute;
+    top: 140px;
+    left: 350px;
+    color: #fff;
+    font-size: 12px;
+    width: 500px;
+}
+.all-box{
+    width: 100%;
+    height: 100%;
+    background: #fff
+}
+.all-cen{
+    width: 1400px;
+    margin: 0 auto;
+    height: 100%
+}
+.all-cen-width{
+    width: 1190px;
+}
+
+
+
+.nav-x{
+    width: 1245px;
+    border-bottom: 1px solid #e4e7eb;
+}
+.n1{
+    height: 366px;
+}
+.n2{
+    height: 655px;
+}
+.n3{
+    height: 366px;
+}
+.n4{
+    height: 366px;
+}
+.n5{
+    height: 366px;
+}
+.nav-x-title{
+    font-size: 25px;
+    padding: 70px 95px;
+}
+.nav-x-pic{
+    padding: 15px 105px;
+}
+.nav-x-pic li{
+    float: left;
+    width: 197px;
+    height: 150px;
+    text-align: center;   
+    margin-right: 20px;
+}
+
+.nav-x-pic li a{
+    text-decoration: none;
+    color:#000;
+    font-size: 10px;
+}
+.nav-x-text ul{
+    width: 208px;
+}
+.nav-x-text{
+    /* width: 208px;
+    height: 80px; */
+    /* margin: 33px; */
+    background: #f1f5f9;
+    padding: 33px 30px;
+    float: right;
+    margin-top: -80px;
+}
+.n-x-t-title a{
+    font-size: 13px;
+    text-decoration: none;
+}
+.n-x-t-text a{
+    font-size: 11px;
+
+    color:#5865f5;
+    text-decoration: none;
+}
+.n-x-t-text{
+    margin-top: 10px;
+}
+
